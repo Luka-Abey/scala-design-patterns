@@ -4,7 +4,7 @@ Inspired by [Design patterns implemented in Java](https://github.com/iluwatar/ja
 
 ## Introduction
 Design patterns are formalized best practices that the programmer can use to solve common problems when designing an application or system.
-The classical design patterns are the 23 design patterns by GoF.
+The classical design patterns are the 23 design patterns by Gang of Four.
 
 This project implements dozens of design patterns in Scala.
 The Scala language has several advanced features which make the implementations are different from other programming languages.
